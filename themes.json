@@ -2,6 +2,12 @@
     "status": 1,
     "data": [
         {
+            "themeName": "Merry Christmas",
+            "packageName": "me.moreapps.iconpack.merry.christmas",
+            "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_merry_chrismas.jpg",
+            "iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
+        },
+        {
             "themeName": "Retro Oreo Icons",
             "packageName": "me.moreapps.iconpack.retro.oreo",
             "picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_retro_oreo.jpg",
