@@ -1,7 +1,7 @@
 {
 	"status": 1,
 	"data": [
-        {
+        	{
 			"themeName": "GX S8 Icons",
 			"packageName": "craftsicons.iconpack.gx.s8",
 			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gx_s8.jpg",
@@ -13,11 +13,11 @@
 			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_pixel_ui.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_pixel_ui.png"
 		},
-        {
+        	{
 			"themeName": "Thanks for try the game.",
 			"packageName": "com.uncleciba.spacevs",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/auncher_game1.jpg",
-			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/auncher_game1.jpg"
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/launcher_game1.jpg",
+			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/launcher_game1.jpg"
 		},
 		{
 			"themeName": "Material Dream",
