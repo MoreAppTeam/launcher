@@ -2,6 +2,12 @@
 	"status": 1,
 	"data": [
 		{
+			"themeName": "P Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.p",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_piconpack.jpg",
+			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_piconpack.jpg"
+		},
+		{
 			"themeName": "Video Wallpaper",
 			"packageName": "me.craftsapp.video.wallpaper",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/videowallpaper_launcher2.jpg",
