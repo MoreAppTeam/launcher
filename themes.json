@@ -10,31 +10,25 @@
 		{
 			"themeName": "Video Wallpaper",
 			"packageName": "me.craftsapp.video.wallpaper",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/videowallpaper_launcher2.jpg",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/videowallpaper_launcher2_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/videowallpaper_launcher2.jpg"
 		},
         	{
 			"themeName": "GX S8 Icons",
 			"packageName": "craftsicons.iconpack.gx.s8",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gx_s8.jpg",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gx_s8_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Transparent Screen",
 			"packageName": "me.craftsapp.transparent.screen",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher.png",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher_ad.png",
 			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher.png"
-		},
-        	{
-			"themeName": "Thanks for try the game.",
-			"packageName": "com.uncleciba.spacevs",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/launcher_game1.jpg",
-			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/launcher_game1.jpg"
 		},
 		{
 			"themeName": "Material Dream",
 			"packageName": "craftsicons.iconpack.material.dream",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_material_dream.jpg",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_material_dream_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_material_dream.png"
 		},
 		{
@@ -46,7 +40,7 @@
 		{
 			"themeName": "Gold Icons Pro",
 			"packageName": "craftsicons.iconpack.a1.gold",
-			"picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_goldpro.jpg",
+			"picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_goldpro_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_goldpro.png"
 		},
 		{
@@ -70,13 +64,13 @@
 		{
 			"themeName": "Vigour Icons",
 			"packageName": "craftsicons.iconpack.vigour.icons",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_vigour_icons.jpg",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_vigour_icons_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Black Silver Theme",
 			"packageName": "craftsicons.iconpack.black.silver",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_black_silver.jpg",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_black_silver_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_black_silver.png"
 		},
 		{
@@ -92,64 +86,10 @@
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
-			"themeName": "Animal Union",
-			"packageName": "craftsicons.iconpack.a2.animalunion",
-			"picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_animalunion.jpg",
-			"iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_animalunion.png"
-		},
-		{
 			"themeName": "Watercolor Icon Pack",
 			"packageName": "me.moreapps.iconpack.water.color",
 			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_watercolor.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
-		},
-		{
-			"themeName": "Gold Icon Pack",
-			"packageName": "nlauncher.theme.a7.gold",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_gold.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_gold.png"
-		},
-		{
-			"themeName": "Flat UI Icon Pack",
-			"packageName": "nlauncher.theme.a1.flatui",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_flatui.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_flatui.png"
-		},
-		{
-			"themeName": "Metal Icon Pack",
-			"packageName": "nlauncher.theme.a5.metal",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_metal.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_meta.png"
-		},
-		{
-			"themeName": "Dark Green Icon Pack",
-			"packageName": "nlauncher.theme.a2.darkgreen",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_darkgreen.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_darkgreen.png"
-		},
-		{
-			"themeName": "Fly Icon Pack",
-			"packageName": "nlauncher.theme.a3.fly",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_fly.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_fly.png"
-		},
-		{
-			"themeName": "Breath Icon Pack",
-			"packageName": "nlauncher.theme.a4.breath",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_breath.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_breath.png"
-		},
-		{
-			"themeName": "Galapagos Icon Pack",
-			"packageName": "nlauncher.theme.a6.galapagos",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_galapagos.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_galapagos.png"
-		},
-		{
-			"themeName": "Peace World Icons",
-			"packageName": "craftsicons.iconpack.peaceworld",
-			"picURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/theme_peaceworld.jpg",
-			"iconURL": "https://raw.githubusercontent.com/GreatAndroider/mresource/master/theme/logo_goldpro.png"
 		}
 	]
 }
