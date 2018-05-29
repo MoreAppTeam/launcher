@@ -26,12 +26,6 @@
 			"iconURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/transparent_screen_launcher.png"
 		},
 		{
-			"themeName": "Material Dream",
-			"packageName": "craftsicons.iconpack.material.dream",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_material_dream_ad.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_material_dream.png"
-		},
-		{
 			"themeName": "Color S8 Icons",
 			"packageName": "me.moreapps.iconpack.color.s8",
 			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_color_s.jpg",
@@ -72,12 +66,6 @@
 			"packageName": "craftsicons.iconpack.black.silver",
 			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_black_silver_ad.jpg",
 			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_black_silver.png"
-		},
-		{
-			"themeName": "MIUI 9 Icons",
-			"packageName": "me.moreapps.iconpack.miui9",
-			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_mo_miui9.jpg",
-			"iconURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/logo_goldpro.png"
 		},
 		{
 			"themeName": "Merry Christmas",
