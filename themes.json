@@ -2,6 +2,30 @@
 	"status": 1,
 	"data": [
 		{
+			"themeName": "Flamingo Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.flamingo",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/theme/x1_Flamingo_ad.jpg",
+			"iconURL": ""
+		},
+		{
+			"themeName": "None Dark Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.none.dark",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/theme/x2_NoneDark_ad.jpg",
+			"iconURL": ""
+		},
+		{
+			"themeName": "O Pro Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.o.pro",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/theme/x3_OPro_ad.jpg",
+			"iconURL": ""
+		},
+		{
+			"themeName": "S9 Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.s9",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/theme/x4_S9_ad.jpg",
+			"iconURL": ""
+		},
+		{
 			"themeName": "Pix Color Icons",
 			"packageName": "me.xdesignteam.pix.color",
 			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/theme/theme_color_pix_ad.jpg",
