@@ -2,6 +2,12 @@
 	"status": 1,
 	"data": [
 		{
+			"themeName": "2019 Best Launcher",
+			"packageName": "me.craftsapp.pielauncher",
+			"picURL": "https://raw.githubusercontent.com/craftsapp/nresource/master/ads/pielauncher_port.jpg",
+			"iconURL": ""
+		},
+		{
 			"themeName": "Line Icon Pack",
 			"packageName": "me.xdesignteam.iconpack.line",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/line_ad.jpg",
