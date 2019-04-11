@@ -8,6 +8,12 @@
 			"iconURL": ""
 		},
 		{
+			"themeName": "Pure Line Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.pureline",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/pureline_ad.jpg",
+			"iconURL": ""
+		},
+		{
 			"themeName": "Line Icon Pack",
 			"packageName": "me.xdesignteam.iconpack.line",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/line_ad.jpg",
