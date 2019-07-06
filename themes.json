@@ -14,9 +14,21 @@
 			"iconURL": ""
 		},
 		{
+			"themeName": "Mate 20 Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.mate20",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/mate20_ad_banner.jpg",
+			"iconURL": ""
+		},
+		{
 			"themeName": "Pure Line Icon Pack",
 			"packageName": "me.xdesignteam.iconpack.pureline",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/pureline_ad.jpg",
+			"iconURL": ""
+		},		
+		{
+			"themeName": "One UI Icon Pack",
+			"packageName": "me.xdesignteam.iconpack.oneui",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/x5_oneui_ad.jpg",
 			"iconURL": ""
 		},
 		{
@@ -29,12 +41,6 @@
 			"themeName": "Business Gold Icon Pack",
 			"packageName": "me.xdesignteam.iconpack.business_gold",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/business_gold_ad.jpg",
-			"iconURL": ""
-		},		
-		{
-			"themeName": "One UI Icon Pack",
-			"packageName": "me.xdesignteam.iconpack.oneui",
-			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/xdesign/master/0_banners/x5_oneui_ad.jpg",
 			"iconURL": ""
 		},		
 		{
