@@ -2,6 +2,12 @@
 	"status": 1,
 	"data": [
 		{
+			"themeName": "Video Live Wallpaper",
+			"packageName": "com.xapp.video.live.wallpaper",
+			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/app_live_wallpaper_ad.jpg",
+			"iconURL": ""
+		},
+		{
 			"themeName": "LED Scroller",
 			"packageName": "com.xapp.ledscroller",
 			"picURL": "https://raw.githubusercontent.com/MoreAppTeam/launcher/master/app_ads/app_led_scroller.jpg",
